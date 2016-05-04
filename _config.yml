@@ -1,7 +1,7 @@
 name: THEINSIGHTSCO
 favicon: null
 layout_spectrum: 0.9204261
-typography_spectrum: 0.13174
+typography_spectrum: 0.13562
 title: The Insights Co.
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#6D6E71'
-    - '#F39331'
-    - '#1B1B1B'
-    - '#AEAFB2'
-  brandStrength: 0.5115722
-  lightness: 0.540601
-  saturation: 0.9115072
-  rhythmicContrast: 0.4023527
+    - '#6d6e71'
+    - '#ff8d00'
+    - '#a9aaad'
+    - '#dddddd'
+    - '#ffbd7b'
+  brandStrength: 0.8125
+  lightness: 0.8125
+  saturation: 0.8125
+  rhythmicContrast: 0.5
 purpose: []
