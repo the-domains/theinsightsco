@@ -14,15 +14,15 @@ collections:
       path: '/:title/'
 color:
   saturation: 0.5
-  brandStrength: 0.1875
-  rhythmicContrast: 0.5
+  brandStrength: 0.5033727
+  lightness: 0.75
   brandColors:
     - '#6d6e71'
     - '#ff8d00'
     - '#a9aaad'
     - '#dddddd'
     - '#ffbd7b'
-  lightness: 0.75
+  rhythmicContrast: 0.2757167
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: THEINSIGHTSCO
 favicon: null
+name: THEINSIGHTSCO
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 1
-layout_spectrum: 0.6956155
+layout_spectrum: 0.5059022
