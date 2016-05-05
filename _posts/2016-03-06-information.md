@@ -4,12 +4,11 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-05-04T06:57:44.633Z'
-dateModified: '2016-05-04T06:57:30.735Z'
+description: '"Because every time innovation changes the world, it all started with an insight".'
+datePublished: '2016-05-05T03:32:34.586Z'
+dateModified: '2016-05-05T03:32:05.588Z'
 author: []
 sourcePath: _posts/2016-03-06-information.md
-published: true
 title: "in\\troduction"
 authors: []
 publisher:
@@ -24,7 +23,7 @@ _type: WebPage
 ---
 # in\\troduction
 
-> Because every time innovation changes the world, it all started with an insight.
+_"Because every time innovation changes the world, it all started with an insight"._
 
 ## What is an insight?
 
