@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Insights Co.]]></title>
+        <description><![CDATA[The Insights Co.]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 05 May 2016 06:24:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Teaching ruptware to the world!]]></title>
+            <description><![CDATA[<article><h1>Teaching ruptware to the world!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a5d7c6ffd16f30aa4ee7ce911fb45b7c31953de.jpg"></article>]]></description>
+            <link>https://instagram.com/p/BE6FSdRnTHV/</link>
+            <guid isPermaLink="false">20a40db5-cf45-4e57-9755-98119a1f80c1</guid>
+            <pubDate>Thu, 05 May 2016 06:24:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
