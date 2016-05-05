@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: '"Because every time innovation changes the world, it all started with an insight".'
-datePublished: '2016-05-05T05:16:20.721Z'
-dateModified: '2016-05-05T05:16:20.350Z'
+datePublished: '2016-05-05T05:20:25.833Z'
+dateModified: '2016-05-05T05:20:25.437Z'
 author: []
 sourcePath: _posts/2016-03-06-information.md
 title: "in\\troduction"
@@ -60,16 +60,16 @@ in the verticals we work with.
 
 We drive our business and relationships under the following principles:
 
-* Absolut **respect** for the people and the environment.
+* Absolut _respect_ for the people and the environment.
 
-* **Honesty** first.
+* _Honesty_ first.
 
-* **Integrity**, to teach when we be able, to learn when we have to!
+* _Integrity_, to teach when we be able, to learn when we have to!
 
-* Continuous **curiosity**, we don't know everything.
+* Continuous _curiosity_, we don't know everything.
 
-* **Discipline** as mantra, not as a claim.
+* _Discipline_ as mantra, not as a claim.
 
-* Innovation isn't to invent the new, is about **discover new ways** to deliver what already exist!
+* Innovation isn't to invent the new, is about _discover new ways_ to deliver what already exist!
 
-* If we don't became **meaningful for our clients**, we don't be marketable.
+* If we don't became _meaningful for our clients_, we don't be marketable.
