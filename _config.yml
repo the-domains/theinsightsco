@@ -13,16 +13,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.5
-  brandStrength: 0.5033727
-  lightness: 0.75
+  saturation: 0.003372681
+  brandStrength: 0
+  lightness: 0.7504216
   brandColors:
     - '#6d6e71'
     - '#ff8d00'
     - '#a9aaad'
     - '#dddddd'
     - '#ffbd7b'
-  rhythmicContrast: 0.2757167
+  rhythmicContrast: 1
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: THEINSIGHTSCO
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 1
-layout_spectrum: 1
+layout_spectrum: 0.8212479
