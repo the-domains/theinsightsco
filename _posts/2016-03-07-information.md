@@ -4,13 +4,12 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: We solve problems working collaboratively with clients and partners on three different approaches.
-datePublished: '2016-05-04T07:00:55.153Z'
-dateModified: '2016-05-04T07:00:34.315Z'
+description: We deal with insights working collaboratively with clients and partners on three different approaches.
+datePublished: '2016-05-05T03:35:28.731Z'
+dateModified: '2016-05-05T03:34:42.329Z'
 title: "in\\formation"
 author: []
 sourcePath: _posts/2016-03-07-information.md
-published: true
 authors: []
 publisher:
   name: null
@@ -24,7 +23,7 @@ _type: WebPage
 ---
 # in\\formation
 
-We solve problems working collaboratively with clients and partners on three different approaches.
+We deal with insights working collaboratively with clients and partners on three different approaches.
 
 ## Hunting
 
