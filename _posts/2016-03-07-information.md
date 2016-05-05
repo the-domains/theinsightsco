@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 keywords: []
 description: We deal with insights working collaboratively with clients and partners on three different approaches.
-datePublished: '2016-05-05T05:25:49.534Z'
-dateModified: '2016-05-05T05:25:33.174Z'
-title: "in\\formation"
+datePublished: '2016-05-05T05:47:05.995Z'
+dateModified: '2016-05-05T05:46:51.506Z'
+title: brief
 author: []
 sourcePath: _posts/2016-03-07-information.md
 authors: []
@@ -21,7 +21,7 @@ url: information/index.html
 _type: WebPage
 
 ---
-# in\\formation
+# brief
 
 We deal with insights working collaboratively with clients and partners on three different approaches.
 
