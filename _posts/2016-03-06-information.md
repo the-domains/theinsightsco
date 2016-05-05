@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: '"Because every time innovation changes the world, it all started with an insight".'
-datePublished: '2016-05-05T04:00:51.358Z'
-dateModified: '2016-05-05T03:59:29.068Z'
+datePublished: '2016-05-05T04:02:42.099Z'
+dateModified: '2016-05-05T04:01:46.297Z'
 author: []
 sourcePath: _posts/2016-03-06-information.md
 title: "in\\troduction"
