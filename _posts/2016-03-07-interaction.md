@@ -5,12 +5,11 @@ inNav: true
 inLanguage: null
 keywords: []
 description: We work with insights all over the world.
-datePublished: '2016-05-04T07:06:26.107Z'
-dateModified: '2016-05-04T07:06:15.912Z'
+datePublished: '2016-05-05T03:36:50.214Z'
+dateModified: '2016-05-05T03:36:44.041Z'
 title: "in\\teraction"
 author: []
 sourcePath: _posts/2016-03-07-interaction.md
-published: true
 authors: []
 publisher:
   name: null
@@ -39,7 +38,7 @@ gabriel@theinsigthsco.com
 ## Latin America
 
 Calle 13Sur, 43A-180  
-Medellín - 050025  
+Medellín - ANT 050025  
 Colombia
 
 +57 (314) 638 8888
