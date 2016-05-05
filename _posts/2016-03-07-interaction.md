@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: We work with insights all over the world.
-datePublished: '2016-05-05T03:36:50.214Z'
-dateModified: '2016-05-05T03:36:44.041Z'
+datePublished: '2016-05-05T05:25:43.270Z'
+dateModified: '2016-05-05T05:25:08.096Z'
 title: "in\\teraction"
 author: []
 sourcePath: _posts/2016-03-07-interaction.md
