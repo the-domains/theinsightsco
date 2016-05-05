@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: '"Because every time innovation changes the world, it all started with an insight".'
-datePublished: '2016-05-05T05:03:17.890Z'
-dateModified: '2016-05-05T05:03:03.569Z'
+datePublished: '2016-05-05T05:10:28.623Z'
+dateModified: '2016-05-05T05:10:28.264Z'
 author: []
 sourcePath: _posts/2016-03-06-information.md
 title: "in\\troduction"
@@ -30,14 +30,12 @@ it all started with an insight"._
 
 According to _Vriens and Verhulst_, an insight is:
 
-> A thought, fact, combination of facts, data and/or analysis of data that induces meaning and furthers understanding of a situation or issue that has the potential of benefiting the business or re-directing the thinking about that situation or issue which then in turn has the potential of benefiting the business.
-> 
-> "
+> A thought, fact, combination of facts, data and/or analysis of data that induces meaning and furthers understanding of a situation or issue that has the potential of benefiting the business or re-directing the thinking about that situation or issue which then in turn has the potential of benefiting the business".
 
 ## Why us?
 
-Because we, at The Insights Co. have  
-the knowledge, experience and tools  
+Because we, at The Insights Co.  
+have the knowledge, experience and tools  
 to capture, process and leverage  
 customer/market insights.
 
