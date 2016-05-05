@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: '"Because every time innovation changes the world, it all started with an insight".'
-datePublished: '2016-05-05T03:32:34.586Z'
-dateModified: '2016-05-05T03:32:05.588Z'
+datePublished: '2016-05-05T03:41:30.085Z'
+dateModified: '2016-05-05T03:40:31.611Z'
 author: []
 sourcePath: _posts/2016-03-06-information.md
 title: "in\\troduction"
@@ -16,7 +16,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: introduction/index.html
 _type: WebPage
 
