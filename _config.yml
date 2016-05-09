@@ -1,5 +1,8 @@
+name: THEINSIGHTSCO
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 1
 title: The Insights Co.
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.003372681
-  brandStrength: 0
-  lightness: 0.7504216
   brandColors:
     - '#6d6e71'
     - '#ff8d00'
     - '#a9aaad'
     - '#dddddd'
     - '#ffbd7b'
+  brandStrength: 0
+  lightness: 0.7504216
+  saturation: 0.003372681
   rhythmicContrast: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: THEINSIGHTSCO
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 1
-layout_spectrum: 0.8212479
+purpose: []
